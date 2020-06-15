@@ -1,0 +1,32 @@
+.kertas{
+  width:97%;
+  background :#ececec;
+  float:left;
+  padding:10px
+}
+.page{
+  width:40%;
+  background:#fff;
+  margin:0 auto;
+  padding:10px;
+}
+.page p{
+  text-align:center;
+  font-weight:bold;
+  font-size:16pt;
+}
+#kotak1{
+  padding:50px;
+  border:none;
+  margin:10px;
+  background : #34db4a;
+}
+#kotak2, #kotak3, #kotak4{
+  padding:50px;
+  border:none;
+  margin:10px;
+  background : #fb5959e8;
+}
+#kotak3, #kotak4{
+  visibility:hidden;
+}
